@@ -1,0 +1,15 @@
+current directory: /Users/Marta/Desktop/Altcademy_FrontEnd/bewd-todolist-user-auth/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/Marta/.rbenv/versions/3.0.3/bin/ruby -I /Users/Marta/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220825-93143-cn3tdf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Marta/Desktop/Altcademy_FrontEnd/bewd-todolist-user-auth/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/Marta/Desktop/Altcademy_FrontEnd/bewd-todolist-user-auth/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/Marta/Desktop/Altcademy_FrontEnd/bewd-todolist-user-auth/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220825-93143-6453zq/skiptrace/internal
